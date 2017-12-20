@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0755ce06-61ad-4d20-b425-37ba94b0ec8c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/colucy/EnhancedPlayer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/colucy/Printer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/colucy/PrinterApp.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/inheritance/com/colucy/GameApp.class" afterPath="$PROJECT_DIR$/out/production/inheritance/com/colucy/GameApp.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/inheritance/com/colucy/Player.class" afterPath="$PROJECT_DIR$/out/production/inheritance/com/colucy/Player.class" />
-      <change beforePath="$PROJECT_DIR$/src/com/colucy/GameApp.java" afterPath="$PROJECT_DIR$/src/com/colucy/GameApp.java" />
-      <change beforePath="$PROJECT_DIR$/src/com/colucy/Player.java" afterPath="$PROJECT_DIR$/src/com/colucy/Player.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,14 +16,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/colucy/Player.java">
+      <file leaf-file-name="EnhancedPlayer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/colucy/EnhancedPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="9" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="13" selection-end-column="9" />
+            <state relative-caret-position="75">
+              <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
               <folding>
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -35,22 +32,32 @@
       <file leaf-file-name="GameApp.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/colucy/GameApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
+            <state relative-caret-position="311">
               <caret line="22" column="69" lean-forward="false" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EnhancedPlayer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/colucy/EnhancedPlayer.java">
+      <file leaf-file-name="Printer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/colucy/Printer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-38">
-              <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+            <state relative-caret-position="603">
+              <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding>
-                <element signature="e#639#640#0" expanded="true" />
-                <element signature="e#671#672#0" expanded="true" />
+                <element signature="e#1031#1032#0" expanded="true" />
+                <element signature="e#1067#1068#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrinterApp.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/colucy/PrinterApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -99,6 +106,8 @@
         <option value="$PROJECT_DIR$/src/com/colucy/Player.java" />
         <option value="$PROJECT_DIR$/src/com/colucy/GameApp.java" />
         <option value="$PROJECT_DIR$/src/com/colucy/EnhancedPlayer.java" />
+        <option value="$PROJECT_DIR$/src/com/colucy/Printer.java" />
+        <option value="$PROJECT_DIR$/src/com/colucy/PrinterApp.java" />
       </list>
     </option>
   </component>
@@ -170,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GameApp">
+  <component name="RunManager" selected="Application.PrinterApp">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -197,14 +206,14 @@
       <module name="inheritance" />
       <envs />
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PCApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.colucy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.colucy.Main" />
+      <option name="MAIN_CLASS_NAME" value="com.colucy.PCApp" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -216,14 +225,14 @@
       <module name="inheritance" />
       <envs />
     </configuration>
-    <configuration name="PCApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PrinterApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.colucy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.colucy.PCApp" />
+      <option name="MAIN_CLASS_NAME" value="com.colucy.PrinterApp" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -348,19 +357,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Main" />
-      <item index="1" class="java.lang.String" itemvalue="Application.VehicleApp" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PCApp" />
-      <item index="3" class="java.lang.String" itemvalue="Application.RoomApp" />
-      <item index="4" class="java.lang.String" itemvalue="Application.GameApp" />
+      <item index="0" class="java.lang.String" itemvalue="Application.VehicleApp" />
+      <item index="1" class="java.lang.String" itemvalue="Application.PCApp" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RoomApp" />
+      <item index="3" class="java.lang.String" itemvalue="Application.GameApp" />
+      <item index="4" class="java.lang.String" itemvalue="Application.PrinterApp" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.GameApp" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RoomApp" />
-        <item index="2" class="java.lang.String" itemvalue="Application.PCApp" />
-        <item index="3" class="java.lang.String" itemvalue="Application.VehicleApp" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="0" class="java.lang.String" itemvalue="Application.PrinterApp" />
+        <item index="1" class="java.lang.String" itemvalue="Application.GameApp" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RoomApp" />
+        <item index="3" class="java.lang.String" itemvalue="Application.PCApp" />
+        <item index="4" class="java.lang.String" itemvalue="Application.VehicleApp" />
       </list>
     </recent_temporary>
   </component>
@@ -727,22 +736,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/colucy/GameApp.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="69" lean-forward="false" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/colucy/EnhancedPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38">
+        <state relative-caret-position="75">
           <caret line="5" column="25" lean-forward="false" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
           <folding>
             <element signature="e#639#640#0" expanded="true" />
             <element signature="e#671#672#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/colucy/GameApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="22" column="69" lean-forward="false" selection-start-line="22" selection-start-column="69" selection-end-line="22" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/colucy/Printer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="46" column="0" lean-forward="false" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
+          <folding>
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/colucy/PrinterApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
