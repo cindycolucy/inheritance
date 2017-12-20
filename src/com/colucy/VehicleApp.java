@@ -4,7 +4,8 @@ public class VehicleApp {
 
     public static void main(String[] args) {
 
-        Vehicle vehicle = new Vehicle(String "land", int 85)
+        Fiat fiat = new Fiat("red");
+        fiat.accelerate(30);
 
 
 
